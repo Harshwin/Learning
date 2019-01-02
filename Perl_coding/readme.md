@@ -1,1 +1,1 @@
-Contains codes to understand perl syntax followed from **tutorialspoint.com**
+Contains codes to understand perl syntax (**tutorialspoint.com**)
