@@ -1,0 +1,11 @@
+[debug] > Exec(val hello : String = "Hola!", None, None)
+[error] Expected ID character
+[error] Not a valid command: val (similar: eval, alias, apply)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: val
+[error] val hello : String = "Hola!"
+[error]    ^
+[debug] > Exec(idea-shell, None, None)

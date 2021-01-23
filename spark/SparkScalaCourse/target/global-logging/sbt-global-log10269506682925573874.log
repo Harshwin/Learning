@@ -1,0 +1,11 @@
+[debug] > Exec(int a = 2, None, None)
+[error] Expected ID character
+[error] Not a valid command: int (similar: client, inspect, exit)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: int (similar: bgList, ivySbt, run)
+[error] int a = 2
+[error]    ^
+[debug] > Exec(idea-shell, None, None)
