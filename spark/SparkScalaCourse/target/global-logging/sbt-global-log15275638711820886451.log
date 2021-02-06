@@ -1,0 +1,11 @@
+[debug] > Exec(which sbt, None, None)
+[error] Expected ID character
+[error] Not a valid command: which
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: which (similar: watch, watched)
+[error] which sbt
+[error]      ^
+[debug] > Exec(idea-shell, None, None)
